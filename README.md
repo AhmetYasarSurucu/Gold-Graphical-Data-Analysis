@@ -102,13 +102,17 @@ o	Üçüncü Kuartil (Q3): 1983.65 USD
 
 4.1    2015-2017 DÖNEMİ: 
 Altın fiyatları nispeten düşük ve stabil. Yorum: Bu dönemde, küresel ekonomik büyümenin stabil olduğu ve büyük ekonomik krizlerin yaşanmadığı bir zaman dilimi. Yatırımcılar için altın, düşük riskli bir koruma aracı olarak görülebilir. Tavsiye: Düşük volatilite ve stabil fiyatlar, uzun vadeli yatırımcılar için iyi bir alım fırsatı sunabilir.
- 4.2    2017-2019 DÖNEMİ: 
+ 
+4.2    2017-2019 DÖNEMİ: 
 Fiyatlar bir önceki döneme göre artış göstermiş. Yorum: Bu dönemde, ABD ve Çin arasındaki ticaret savaşları başlamıştır. Belirsizlikler ve riskler arttıkça, yatırımcılar güvenli liman olarak altına yönelmiş olabilir. Tavsiye: Altın, belirsizlik dönemlerinde güvenli bir yatırım aracı olarak değerlendirilebilir. Yatırımcılar, portföylerini çeşitlendirerek risklerini yönetebilir. 
- 4.3    2019-2021 DÖNEMİ: 
+ 
+4.3    2019-2021 DÖNEMİ: 
 Altın fiyatlarında önemli bir artış ve volatilite görülüyor. Yorum: COVID-19 pandemisi küresel ekonomiyi sarsmış ve büyük ekonomik belirsizliklere yol açmıştır. Bu dönemde altın fiyatları rekor seviyelere ulaşmıştır. Tavsiye: Kriz dönemlerinde altın, değerini koruma konusunda güçlü bir araç olarak öne çıkar. Yatırımcılar, likidite ihtiyaçlarını göz önünde bulundurarak yatırımlarını planlamalıdır. 
- 4.4	2021-2023 DÖNEMİ: 
+ 
+4.4	2021-2023 DÖNEMİ: 
 Fiyatlar stabil bir artış trendi gösteriyor. Yorum: Pandemi sonrası toparlanma süreci ve ekonomik teşvik paketleri, piyasalarda bir miktar stabilizasyon sağlamış olabilir. Ancak, enflasyon endişeleri altın fiyatlarını yukarı yönlü baskılamış olabilir. Tavsiye: Enflasyon karşısında korunma amacıyla altın, portföylerde önemli bir yer tutmaya devam eder. Yatırımcılar, enflasyonist baskıları göz önünde bulundurarak hareket etmelidir.
- 4.5    2023-2024 DÖNEMİ: 
+ 
+4.5    2023-2024 DÖNEMİ: 
 Altın fiyatları rekor seviyelere ulaşmış. Yorum: Küresel ekonomik belirsizliklerin devam etmesi, altın fiyatlarını yükseltmiş olabilir. Ayrıca, merkez bankalarının politikaları ve döviz kurlarındaki dalgalanmalar da etkili olmuştur. Tavsiye: Yatırımcılar, piyasa koşullarını yakından takip ederek, altın yatırımlarını zamanlamalı ve risk yönetimini etkin bir şekilde yapmalıdır.
 
 5.	GENEL YORUM:
