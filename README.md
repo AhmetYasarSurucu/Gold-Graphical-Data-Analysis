@@ -115,5 +115,6 @@ Fiyatlar stabil bir artış trendi gösteriyor. Yorum: Pandemi sonrası toparlan
 4.5    2023-2024 DÖNEMİ: 
 Altın fiyatları rekor seviyelere ulaşmış. Yorum: Küresel ekonomik belirsizliklerin devam etmesi, altın fiyatlarını yükseltmiş olabilir. Ayrıca, merkez bankalarının politikaları ve döviz kurlarındaki dalgalanmalar da etkili olmuştur. Tavsiye: Yatırımcılar, piyasa koşullarını yakından takip ederek, altın yatırımlarını zamanlamalı ve risk yönetimini etkin bir şekilde yapmalıdır.
 
+
 5.	GENEL YORUM:
 Eğer kısa dönem hareketli ortalamalar, uzun dönem hareketli ortalamaların üzerine çıkarsa, bu bir yükseliş trendinin başlangıcı olarak yorumlanabilir. Bu durumda, 2024-2026 yılları arasında fiyatların yükselmesi öngörülebilir.
